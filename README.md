@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @skolom
-- 👀 I’m interested in web development and card payment system
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on any web development realated project
+- 👋 Hi, I’m Rabbi
+- 👀 I’m a fullstack developer.
+- 💞️ I’m available to collaborate on any web development realated project
 - 📫 How to reach me rabbisarpong66@gamil.com
 
 <!---
